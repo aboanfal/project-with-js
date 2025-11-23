@@ -32,3 +32,15 @@ div{
         color: wheat;
         display: flex;
         flex-directio
+
+.header {
+    /* Estilos para header */
+}
+
+.container {
+    /* Estilos para container */
+}
+
+.main {
+    /* Estilos para main */
+}
