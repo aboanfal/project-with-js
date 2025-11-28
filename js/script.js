@@ -1,4 +1,4 @@
- var x = "my name is yassirn yousif abdalla abaker"
+ var x = "my name is yassir yousif abdalla abaker"
      y = "and what is your name my bror@"
-       z =  y;
+       z =  x;
      console.log(z)
